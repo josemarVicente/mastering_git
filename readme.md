@@ -1,4 +1,4 @@
-## hyoo, bem vindo ao meu tutorial de git
+## Welcome to Git!
 
-- daqui é Guanabara
+- Daqui é o Dev Josemar
 - Adicionando está mensagem apartir de feature-branch
